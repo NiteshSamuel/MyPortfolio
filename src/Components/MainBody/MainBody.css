@@ -1,0 +1,11 @@
+
+.Body{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 10%;
+    box-shadow: 10%;
+}
+
+p{
+    color: white;
+}
